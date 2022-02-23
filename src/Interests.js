@@ -3,7 +3,7 @@ import './index.css'
 
 export default function Interests() {
     return(
-        <div>
+        <div className="about_and_interests">
             <h2>Interests</h2>
             <p>
                 Well right now Im busy learning coding, but when Im not coding

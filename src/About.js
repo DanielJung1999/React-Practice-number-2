@@ -3,7 +3,7 @@ import './index.css'
 
 export default function About() {
     return(
-        <div>
+        <div className="about_and_interests">
             <h2>About</h2>
             <p>
                 Hello there! My name is Dániel and Im aspiring to be a software Developer
